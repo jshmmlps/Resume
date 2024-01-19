@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+header {
+    background-color: #000000;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+button {
+    padding: 8px 16px;
+    cursor: pointer;
+    background-color: #5f0d01;
+    color: #fff;
+    border: none;
+}
+
+button:hover {
+    background-color: #717171;
+}
+
+#resume {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+}
+
+.name {
+    font-size: 32px ;
+    font-weight: bold;
+    hyphens: auto;
+}
+
+.photo {
+    border-radius: 8px; 
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    
+  }
+.acad {
+    font-size: 32px ;
+    font-weight: bold;
+    hyphens: auto;
+}
+
+p {
+    font-size: 20px ;
+    hyphens: auto;
+}
+
+.line-1 {
+ height: 1px;
+ background: #000000;
+ font-size: large; 
+}
+
+.obj {
+    font-size: 32px ;
+    font-weight: bold;
+    hyphens: auto;
+}
+li {
+    font-size: 20px;
+    hyphens: auto;
+}
